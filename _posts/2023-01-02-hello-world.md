@@ -2,7 +2,7 @@
 
 It's yet another new year. Welcome 2023.
 
-I want to dedicate this blog as a sort of pseudo-journal / blog / workout log / self-therapy / tool-to-get-my-thinking-clearer - **dibtap** is short for **Done Is Better thAn Perfect**
+I want to dedicate this blog as a sort of pseudo-journal / blog / workout log / self-therapy / tool-to-get-my-thinking-clearer - **dibtap** is short for **D**one **I**s **B**etter th**A**n **P**erfect
 
 I have a bad tendency to overthink and procrastinate. I think it's a problem with me not wanting to start or release anything less than perfect -- probably a problem with emotional regulation, low-self esteem, impostor syndrome or all of the above. But enough about that, I promised myself I'd also work on positive self-talk too ;)
 
@@ -16,7 +16,7 @@ I left a job and a startup I was really stoked about and (initially) I really be
 
 I spent the latter half of 2022 recovering from that, piecing my life back together, travelling Asia for a bit -- finding what else other than work I enjoyed doing: which I quickly found to be **climbing**! I manifested both a new job and a new partner. It all sounds like I recovered pretty quickly but I can't say that's completely the case. 
 
-I was - I might still be - in a slump. I had lost my BHAG (Big Hairy Audacious Goal) and thus my purpose. My climbing progressed quickly but stalled just as quickly - I got injured thrice: two a2 pulley tears (right middle, left ring finger), right shoulder subluxation. 
+I was - I might still be - in a slump. I had lost my BHAG (Big Hairy Audacious Goal) and thus my purpose. My climbing progressed quickly but stalled just as quickly - I got injured thrice: two A2 pulley tears (right middle, left ring finger), right shoulder subluxation. 
 
 Despite the good luck of landing on my feet, I found myself lethargic and despondent, procrastinating a ton on social media.
 
@@ -31,8 +31,8 @@ I still dont have a BHAG just yet, but I've identified 3 goals I have this year
 Yes yes, it's a bit scattered. Especially goal #1 because I want it to encompass machine learning as well, especially NLP. But I'm writing this more for myself than anyone else so if you're reading this, go fish. 
 
 Some posts that inspired me to get off my bum and write (which I might be referencing in the near future)
-* https://zhengdongwang.com/2022/12/28/2022-letter.html
-* https://zhengdongwang.com/productivity
-* https://nabeelqu.co/advice
+* [https://zhengdongwang.com/2022/12/28/2022-letter.html](https://zhengdongwang.com/2022/12/28/2022-letter.html)
+* [https://zhengdongwang.com/productivity](https://zhengdongwang.com/productivity)
+* [https://nabeelqu.co/advice](https://nabeelqu.co/advice)
 
 I aint got more than that for now - but dibtap, ya know? Smell ya later, gramps!
