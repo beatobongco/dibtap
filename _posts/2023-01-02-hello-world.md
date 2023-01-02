@@ -2,7 +2,7 @@
 
 It's yet another new year. Welcome 2023.
 
-I want to dedicate this blog as a sort of pseudo-journal / blog / workout log / self-therapy / tool-to-get-my-thinking-clearer - **dibtap** is short for **D**one **I**s **B**etter th**A**n **P**erfect
+I want to dedicate this blog as a sort of pseudo-journal / blog / workout log / self-therapy / tool-to-get-my-thinking-clearer - **dibtap** is short for **D**one **I**s **B**etter **T**h**A**n **P**erfect
 
 I have a bad tendency to overthink and procrastinate. I think it's a problem with me not wanting to start or release anything less than perfect -- probably a problem with emotional regulation, low-self esteem, impostor syndrome or all of the above. But enough about that, I promised myself I'd also work on positive self-talk too ;)
 
