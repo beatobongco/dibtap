@@ -22,13 +22,15 @@ Despite the good luck of landing on my feet, I found myself lethargic and despon
 
 I want 2023 to be different. 
 
-I still dont have a BHAG just yet, but I've identified 3 goals I have this year
+I still dont have a BHAG just yet, but I've identified 3 main goals I have this year
 
 1. Work on becoming a world-class generalist software engineer
 2. Become an excellent climber (7a+ / V6+)
-3. Learn about real estate to build wealth
+3. Achieve balance: improve in my craft + hobby while still having time to tend to important relationships 
 
-Yes yes, it's a bit scattered. Especially goal #1 because I want it to encompass machine learning as well, especially NLP. But I'm writing this more for myself than anyone else so if you're reading this, go fish. 
+I have some subgoals as well, most important of which is learning about real estate to build wealth.
+
+Yes yes, it's all a bit scattered. Especially goal #1 because I want it to encompass machine learning as well, especially NLP (what with ChatGPT shaking up the world). But I'm writing this more for myself than anyone else so if you're reading this, go fish. 
 
 Some posts that inspired me to get off my bum and write (which I might be referencing in the near future)
 * [https://zhengdongwang.com/2022/12/28/2022-letter.html](https://zhengdongwang.com/2022/12/28/2022-letter.html)
