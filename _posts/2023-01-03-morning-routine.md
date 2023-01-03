@@ -36,7 +36,7 @@ So that's the first thing I want to put in my new morning routine. I want to get
 
 I think not having this in my old routine contributed to my burnout in 2021.
 
-Because of my girlfriend's influence, I'm reading [The 5AM Club](https://www.goodreads.com/book/show/37502596-the-5-am-club). I really hate the writing style and I'm usually not into pop self-improvement BUT and this is a big BUT - the message is actually good. Sure, sure you can say "it's very mid, I know everything in that book already" but the fact is - do you do it? For me, it's a good reminder of what I'm supposed to be doing.
+Because of my girlfriend's influence, I'm reading [The 5AM Club](https://www.goodreads.com/book/show/37502596-the-5-am-club). I dislike the writing style and I'm usually not into pop self-improvement BUT and this is a big BUT - the message is actually good. Sure, sure you can say "I know everything in that book already" but the fact is - do you do it? For me, it's a good reminder of what I'm supposed to be doing.
 
 While I don't adhere to waking up exactly at 5AM because sleep is super important, and its impractical for me to go to bed at 10PM, what I'm taking from the book is I need to wake up earlier so I'm starting with the easier goal of:
 
