@@ -1,4 +1,4 @@
-8:30AM - Bacolod, PH
+8:30AM - Bacolod, PH (~~S~~-~~E~~-~~M~~~~R~~~~J~~)
 
 It's often said in self-improvement circles that habits make you who you are. I think it goes something like:
 
@@ -32,7 +32,7 @@ I want to revisit that little _Habit Acronym_ technique but make it more sustain
 
 First thing I want to focus on is sleep. A lot has been written about sleep, and I have to admit I'm still in the middle of reading [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) but I got the gist that its one of the most important things you can fix in your life because it affects everything: your mental faculties, your physical performance, emotional regulation, processing of trauma, etc, etc
 
-So that's the first thing I want to put in my new morning routine. I want to get a solid number of hours of sleep, I think for me it works out to about 6-7. It really depends on your particular biology. When left to my own devices, I think I usually wake up after around 6-7 hours provided I'm not completely exhausted the night before.
+So that's the first thing I want to put in my new morning routine. I want to get a solid number of hours of sleep, I think for me it works out to about 6-7. It really depends on your particular genetics and age. When left to my own devices, I think I usually wake up after around 6-7 hours provided I'm not completely exhausted the night before.
 
 I think not having this in my old routine contributed to my burnout in 2021.
 
@@ -102,3 +102,6 @@ I want to commit to writing a little every day - it could be through this blog (
 
 I want to commit to writing imperfectly and want to resist the temptation to edit too much so I actually get posts out there. It's like a form of therapy and a mental exercise to be OK with just releasing imperfect things into the wild - I think mastering this will really make me a better person on many fronts - after all, done is better than perfect.
 
+---
+
+All in all, this routine takes around 2 hours max. A little longer if I take too long writing this blog post. Expect some shorter ones in the future too!
