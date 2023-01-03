@@ -1,2 +1,9 @@
+title: dibtap
+author:
+  name: B
+description: > 
+  DONE IS BETTER THAN PERFECT. A pseudo-journal / blog / workout log / self-therapy / tool-to-get-my-thinking-clearer.
+show_excerpts: true
+
 markdown: kramdown
 theme: minima
