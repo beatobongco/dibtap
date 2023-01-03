@@ -5,7 +5,7 @@ It's often said in self-improvement circles that habits make you who you are. I 
 > Your thoughts influence your actions, which influence your habits, which ultimately shape your life - as you are what you do repeatedly.
 
 Therefore, I've decided to focus on forming a good morning routine.
-
+<!-- excerpt-end -->
 When I was in my work-super-hard phase circa 2018-2020 (I was working for a regionally well-known data science consultancy with a reputation for near-burnout levels of work as part of the culture), I had this little acronym that would describe how an ideal day would go
 
 **MRJ-SE**
