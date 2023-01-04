@@ -2,7 +2,7 @@
 
 Last night I hung out with my aunt and her friends. 
 
-I have her to thank actually for getting me into tech - funnily enough my entrypoint into this world was through what was then Macromedia Flash (it has long since been acquired by Adobe).
+I have her to thank actually for getting me into tech - funnily enough my entrypoint into this world was through what was then Macromedia Flash (it has long since been acquired by Adobe).<!-- excerpt-end -->
 
 When I was in 5th grade my aunt signed me up for a summer class on Flash and I ended up getting reasonably good at it.
 
@@ -97,4 +97,4 @@ The things you do or where you live may change over time, but as the hopeless ro
 
 This question also applies to friends and workmates. It's a common aphorism that you're the average of the 5 people you spend the most of your time with. So do guard who's in your innermost circle. I think it's OK to set high standards, and help elevate people however you can if they're open to it.
 
-I think the best kinds of circles are those who aren't just together for purely for fun and leisure, but also improve and succeed together
+I think the best kinds of circles are those who aren't just together for purely for fun and leisure, but also improve and succeed together.
