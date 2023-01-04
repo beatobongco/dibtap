@@ -6,19 +6,19 @@ I have her to thank actually for getting me into tech - funnily enough my entryp
 
 When I was in 5th grade my aunt signed me up for a summer class on Flash and I ended up getting reasonably good at it.
 
-I kept practicing and eventually I was able to make some money in high school when classmates would ask me to make their projects for them for money* - our computer class covered Flash for 2 years in junior and senior year. It is most likely that our computer teacher didn't really know what else she could teach us, and they were making the curriculum up on the fly. 
+I kept practicing and eventually I was able to make some money in high school when classmates would ask me to make their projects* - our computer class covered Flash for 2 years in junior and senior year. It is most likely that our computer teacher didn't really know what else she could teach us, and they were making the curriculum up on the fly. 
 
-*Note: I didn't offer this service, it was more that the market came to me and I happily obliged.
+_*Note: I didn't offer this service, it was more that the market came to me and I happily obliged._
 
 Growing up also my computer time was limited to 1 hour per weekend day (e.g. Saturday, Sunday) so even though I practiced animating for years and I was top of my computer class by a wide margin, I wasn't really that great from a global perspective.
 
-This makes me think of the effects of environment - sometimes I wish I was set up in a high school where I could have learned to program earlier with peers who were interested / good at it. There's no value in regrets though, and I'm happy I still was able to find my way into the tech world - there truly is no other world I'd rather be in. 
+This makes me think of the effects of environment - sometimes I wish I was set up in a high school where I could have learned to program earlier with peers who were interested / good at it and my parents were a bit more lenient with computer time. There's no value in regrets though, and I'm happy I still was able to find my way into the tech world - there truly is no other world I'd rather be in. 
 
 ## Environment and Habits
 
 Andrew Huberman says that habits can be either context-dependent or context-independent. For example, brushing your teeth in the morning doesn't require you to be in a very specific place (lots of places have bathrooms / sinks) hence it is context-independent. 
 
-Something that requires specific equipment like a climbing wall or a barbell with heavy weights is more context-depedendent. 
+Something that requires specific equipment like a climbing wall or a barbell with heavy weights is more context-dependent. 
 
 I'm currently visiting my hometown, staying at my parent's house and it's way less equipped with the things I need vs my condo and gym in Manila.
 
@@ -47,7 +47,7 @@ I got a kick out of programming so much I'd do it on my own time and even cut cl
 
 I also wonder the same thing - what if I had the opportunity to go to a school like Stanford or MIT? How much differently would I have turned out? 
 
-But again there's no sense in looking back. I made the most of the resources and opportunities I had at the time. Being born in a third-world country, I'm already considered very priveleged to have gone to the college I went to.
+But again there's no sense in looking back. I made the most of the resources and opportunities I had at the time. Being born in a third-world country, I'm already considered very privileged to have gone to the college I went to.
 
 I think though as we get older and our spending power incrases so does our freedom. We increasingly get the chance to pick our own environments and I think that's a super important thing.
 
@@ -75,7 +75,7 @@ Where you live definitely shapes you. My best friend moved to Sydney early in hi
 
 The baseline salary boost one gets from moving from a third to first world country is huge. It allows you to spend on things you would think twice about spending on before, like international travel. 
 
-It gives you access to more competent people (for example a really good trainer) or better facilities.
+It gives you access to more competent people (for example a really good trainer or co-workers) or better facilities.
 
 It exposes you to opportunity in your field - for example, there's no better place for tech people who want to change things than Silicon Valley.
 
@@ -97,4 +97,4 @@ The things you do or where you live may change over time, but as the hopeless ro
 
 This question also applies to friends and workmates. It's a common aphorism that you're the average of the 5 people you spend the most of your time with. So do guard who's in your innermost circle. I think it's OK to set high standards, and help elevate people however you can if they're open to it.
 
-I think the best kinds of circles are those who aren't just together for purely for fun and leisure, but also improve and succeed together.
+I think the best kinds of circles (and partners) are those who you don't just get together with purely for fun or leisure, but also to improve and succeed together.
