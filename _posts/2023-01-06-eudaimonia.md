@@ -1,6 +1,6 @@
 1:49AM - Bacolod City, PH (~~S-E-MRJ~~)
 
-Back in 2017, during some downtime while on a bouldering trip in Japan I read Peter Thiel's book Zero to One. 
+Back in 2017, during some downtime while on a bouldering trip in Japan I read Peter Thiel's book Zero to One. <!-- excerpt-end -->
 
 During this period of my life I was pushing 4 years working for a local startup and my life was getting a bit stagnant -- I had been promoted a couple of times and was no longer challenged by my web engineering job. 
 
