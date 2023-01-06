@@ -37,7 +37,7 @@ Meditation and reading can be done with my smartphone - I use a free Android app
 
 Journaling just requires a notebook or a laptop.
 
-I think these context-independent habits are good to keep for keeping a good baseline for physical, psychological and mental health but I do believe to achieve any serious progress in your goals you'll really need a good environment and form context-dependent habits.
+These context-independent habits are good to keep for keeping a good baseline for physical, psychological and mental health but I do believe to achieve any serious progress in your goals you'll really need a good environment and form context-dependent habits.
 
 I moved to Manila for college and there I really learned to program. The environment was more than 10x better than high school especially since my course was tech-related (MIS - Management Information Systems -- a fancy way to say Management + IT).
 
@@ -49,7 +49,7 @@ I also wonder the same thing - what if I had the opportunity to go to a school l
 
 But again there's no sense in looking back. I made the most of the resources and opportunities I had at the time. Being born in a third-world country, I'm already considered very privileged to have gone to the college I went to.
 
-I think though as we get older and our spending power incrases so does our freedom. We increasingly get the chance to pick our own environments and I think that's a super important thing.
+Though as we get older and our spending power increases so does our freedom. We increasingly get the chance to pick our own environments which is super important.
 
 [Naval](https://twitter.com/naval/status/1390216106384584704) says the most important decisions you make in life are
 
@@ -87,14 +87,14 @@ The downside of moving as I hear from a lot of my friends who migrate is it can 
 
 According to this [graph](https://ourworldindata.org/time-with-others-lifetime) your partner will increasingly be the person you spend most of your time with, next to yourself.
 
-I imagine you'll absorb a lot of that person's worldview and habits and you'll work on a lot of hard problems together e.g. raising a family if that's your thing, or perhaps starting a business. So I think with this decision, one can afford to be super picky (but maybe not picky enough that you never end up even dating someone)
+I imagine you'll absorb a lot of that person's worldview and habits and you'll work on a lot of hard problems together e.g. raising a family if that's your thing, or perhaps starting a business. With this decision, one can afford to be super picky (but maybe not picky enough that you never end up even dating someone)
 
 My mental model for this one is finding a co-founder for my family / for life. 
 
-Taking the startup analogy further as well - you know how VC's invest more in the team than the idea? I think via that analogy, this decision might be the most important one.
+Taking the startup analogy further as well - you know how VC's invest more in the team than the idea? Via that analogy, this decision might be the most important one.
 
-The things you do or where you live may change over time, but as the hopeless romantic I am I think "who you're with" from a life partner perspective shouldn't.
+The things you do or where you live may change over time, but as the hopeless romantic I am I believe "who you're with" from a life partner perspective shouldn't.
 
-This question also applies to friends and workmates. It's a common aphorism that you're the average of the 5 people you spend the most of your time with. So do guard who's in your innermost circle. I think it's OK to set high standards, and help elevate people however you can if they're open to it.
+This question also applies to friends and workmates. It's a common aphorism that you're the average of the 5 people you spend the most of your time with. So do guard who's in your innermost circle. It's OK to set high standards, and help elevate people however you can if they're open to it.
 
-I think the best kinds of circles (and partners) are those who you don't just get together with purely for fun or leisure, but also to improve and succeed together.
+The best kinds of circles (and partners) are those who you don't just get together with purely for fun or leisure, but also to improve and succeed together.
