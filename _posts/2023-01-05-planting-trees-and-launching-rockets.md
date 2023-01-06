@@ -1,4 +1,4 @@
-11:07PM - Bacolod City, PH (~~S-E-M-R~J~~)
+11:07PM - Bacolod City, PH (~~S-E-MRJ~~)
 
 This isn't a post about saving our dying planet, nor is it a post about humanity going to Mars. <!-- excerpt-end -->
 

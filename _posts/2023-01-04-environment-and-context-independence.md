@@ -1,4 +1,4 @@
-8:35AM - Bacolod City, PH (~~S-E-M-R~J~~)
+8:35AM - Bacolod City, PH (~~S-E-MRJ~~)
 
 Last night I hung out with my aunt and her friends. 
 

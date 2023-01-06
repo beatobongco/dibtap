@@ -1,4 +1,4 @@
-8:30AM - Bacolod City, PH (~~S~~-~~E~~-~~M~~~~R~~~~J~~)
+8:30AM - Bacolod City, PH (~~S~~-~~E~~-~~MRJ~~)
 
 It's often said in self-improvement circles that habits make you who you are.<!-- excerpt-end --> It goes something like:
 
