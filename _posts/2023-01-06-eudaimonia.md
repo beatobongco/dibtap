@@ -10,11 +10,13 @@ I flew back to Manila with a feeling of great purpose, an impossible mission to 
 
 It initially did feel impossible given I was pretty bad at math and had no experience whatsoever. But this feeling of "impossibility" energized me rather than discouraged me, and I set out to find a way I could learn. 
 
-I reached out to old college professors who I knew did some research in "classical" (sorry) machine learning but to no avail. So I went online to find classes and stumbed on Andrew Ng's excellent Machine Learning class.
+I reached out to old college professors who I knew did some research in "classical" (sorry) machine learning, offering to work for them for free. There were initial talks but it never really went anywhere, so I went online to find classes and stumbed on Andrew Ng's excellent Machine Learning class.
 
 I remember making Anki cards for machine learning concepts and going through lessons multiple times because I couldn't understand the math. 
 
-I eventually was able to get accepted into some free albeit selective machine learning bootcamps - one was sponsored by the Philippine government and was meant more for academics or those with PhD's, another by a Wave Computing (cofounded by [Dado Banatao](https://en.wikipedia.org/wiki/Dado_Banatao), no less!) expanding its operations to the Philippines.
+I eventually was able to get accepted into some free albeit selective machine learning bootcamps - one was sponsored by the Philippine government and was meant more for academics or those with PhD's, another by Wave Computing, an AI chip company (think TPUs) which was expanding its operations to the Philippines. 
+
+(Trivia: Wave was cofounded by [Dado Banatao](https://en.wikipedia.org/wiki/Dado_Banatao). They've since closed operations in the PH and rebranded to MIPS, making RISC-V based chips.) 
 
 I recall a lot of feelings of "suck" because it was so hard for me to grasp but also feelings of elation that I was creeping up the steps toward my impossible goal.
 
@@ -26,9 +28,9 @@ My colleague and I were slated to move to Singapore to help start a branch of th
 
 I was pretty much shattered though that took a while to fully sink in -- probably the entirety of 2020. I hid away in Baguio, hosted by my brother and his family, staying there for a good 3 months.
 
-There I met an old colleague from the aforementioned local startup I worked at prior. He casually mentioned a startup I might be interested in that he had invested in and a year later, I reached out to the CEO and found a new job consulting for an AI startup in the US. I was elated since it was the first time I was earning a salary that large.
+There I met an old colleague who, upon learning I was into machine learning, casually mentioned he had invested in an AI startup that I might be interested in. A year later, I reached out to the CEO and after some interviews I started working for them remotely as a consultant.
 
-I worked there for a year, hacking like my life depended on it and eventually standing in for the CTO since he was on leave to care for his ailing parents. I got to experience hiring, building and managing my own team and directing the major demos we were showing to investors which we eventually wanted to turn into projects (one cool one was finding stocks that would be thematically correlated to a query. Think: companies related to lithium batteries or [GameStop](https://en.wikipedia.org/wiki/GameStop_short_squeeze)).
+I worked there for a year, hacking like my life depended on it and eventually standing in for the CTO since he was on leave to care for his ailing parents. I got to experience hiring, building and managing my own team and directing the major demos we were showing to investors which we eventually wanted to turn into products (one cool one was finding stocks that would be thematically correlated to a query. Think: find companies related to the production of "lithium batteries" - even if their profiles never explicitly mentioned the words "lithium" or "batteries" or similar companies people could look if they wanted to capitalize on an event like the [GameStop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze)).
 
 For a reason I wont get into here, I ended up leaving.
 
@@ -44,7 +46,7 @@ Having the big hairy audacious goal of breaking into AI really gave me a ton of 
 
 It took me a good 2 years and reaching it gave me a high like no other - but once I achieved it I found myself lost as I scrambled to find another worthy goal.
 
-I find this pattern repeats itself quite frequently in my life: before breaking into AI it was working at a tech startup, before that it was getting good at programming, before that it was "being cool" in college (lol). 
+I find this pattern repeats itself quite frequently in my life: before breaking into AI it was working at a tech startup, before that it was learning how to program, before that it was learning how to make friends (lol), before that it was getting fit... and so on. 
 
 I'll get super excited about a goal, direct all my attention towards it, achieve it, be happy for a while, then feel lost.
 
