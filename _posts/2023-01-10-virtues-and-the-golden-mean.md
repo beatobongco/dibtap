@@ -34,7 +34,7 @@ Aristotle's idea of _eudaimonia_ resonates with the above childish fantasy of mi
 
 I am finding that his writing gives me a clearer idea of how to judge whether I am living up to my potential.
 
-### Aristotle on Virtues
+### Aristotle on Virtues and the Golden Mean
 
 Aristotle argues that humans must pursue the highest good and that the highest good must be something that is an end in itself. 
 
@@ -64,7 +64,7 @@ A better approach would maybe be to call for help. There might be bystanders who
 
 We must use our rationality and our knowledge of ourselves and the world to find that midpoint.  
 
-If virtues are defined as thus and they are central to achieve _eudaimonia_ does it mean the ultimate virtue is "balance"?
+(If virtues are defined as thus and they are central to achieve _eudaimonia_ does it mean the ultimate virtue is "balance"?)
 
 The spirit of the Golden Mean also appears in many religions and philosophies so it's very interesting that a lot of thinkers have converged on this idea:
 
