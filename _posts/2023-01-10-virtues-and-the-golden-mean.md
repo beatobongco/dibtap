@@ -24,19 +24,21 @@ As I get older, I realize that it is a pretty childish fantasy, but a useful one
 
 According to me, this version of me in this universe. 
 
-(I know this is nebulous -- different versions of me might argue that since they are each the judge of their own definitions of "best" their life is the best among all. But part of this thought experiment is imagining meeting another version of yourself - let's say one that chose to study this or that or move to another country. Would I imagine that I would feel more in awe of that other version of myself?)  
+(I know this is nebulous -- different versions of me might argue that since they are each the judge of their own definitions of "best", their life is the best among all. But part of this thought experiment is imagining meeting another version of yourself - let's say one that chose to study this or that or move to another country. Would I imagine that I would feel more in awe of that other version of myself?)  
 
-What makes me the "best" version of myself is still something I am trying to define - so I'm enlisting the help of much smarter people who came before. 
+What makes me the "best" version of myself is still something I am trying to define - so I'm enlisting the help of much smarter people who came before me. 
 
-The idea of _eudaimonia_ resonates with the above childish fantasy of mine. I will never be able to travel the multiverse, so all I can judge is myself in this universe.
+Aristotle's idea of _eudaimonia_ resonates with the above childish fantasy of mine. I will never be able to travel the multiverse, so all I can judge is myself in this universe.
 
-I am finding with the teachings of Aristotle that it gives me a clearer idea of how to judge whether I am living up to my potential.
+I am finding his writing gives me a clearer idea of how to judge whether I am living up to my potential.
 
 ### Aristotle on Virtues
 
 Central to _eudaimonia_ is the practice of virtues.
 
-But what are virtues? These are what I have gathered from my reading - so it may not be 100% accurate. But I'll share my reflection anyway.
+But what are virtues? 
+
+(These are what I have gathered from my reading - so it may not be 100% accurate. But I'll share my reflection anyway.)
 
 Aristotle argues that to achieve "human flourishing", humans must live according to the pursuit of something that is an end in and of itself. 
 
@@ -54,7 +56,7 @@ For example, having too little courage is cowardice and having too much courage 
 
 An example situation I came across is to imagine an old lady is being mugged. If you have too little courage, you would ignore what is happening and run away. If you have too much courage, you might rush in and try to incapacitate the mugger and save the old lady.
 
-At first glance, it seems having too much courage is a good thing. But consider: if the mugger has a knife or a gun, or is much stronger than you, your efforts might be futile and you might just be putting yourself and the old lady in unnecessary danger. You might even make the situation worse by escalating it: the mugger might have only planned to take the old lady's purse and run but since you tried to tackle him, he pulls out his gun and shoots both you and the old lady.
+At first glance, it seems having too much courage is a good thing. But consider: if the mugger has a knife or a gun, or is much stronger than you, your efforts might be futile and you might just be putting yourself and the old lady in unnecessary danger. You might even make the situation worse by escalating it: the mugger might have only planned to take the old lady's purse and run but since you tried to tackle him (and maybe the old lady helps you), he pulls out his gun and shoots both you and the old lady.
 
 A better approach would maybe be to call for help. There might be bystanders who are more capable that you could work with. Or might try calling the police on your phone.
 
@@ -75,6 +77,6 @@ I like this idea a lot because it always seemed to be that the things I was taug
 
 I want to be a charitable person but not have to give everything and live in squalor. I want to be nice to people but not be stepped on. I want to achieve great things and not feel bad about telling people about it (I'm not talking about bragging. Many times in life it is very useful to be able to communicate your value. For example, during an interview.)
 
-I like the idea of using rationality, and not some old doctrine on determining the best way to be. 
+I like the idea of using rationality, and not some old doctrine to determine the best way to be. 
 
-I think by being the best version of yourself you have the capacity to help people more and maybe even inspire them.
+I think by being the "best" version of yourself as defined by being virtuous: balanced and rational, you have the capacity to help more people and maybe even inspire them.
