@@ -1,8 +1,10 @@
+10:00AM - Makati City, PH (S-E-~~MRJ~~)
+
 I grew up, as many Filipinos do, in a traditional Catholic household. I have a deeply religious mother. Through grade school and high school I went to an institution run by nuns and priests.
 
 One thing that frustrated me about my religious education was we were taught to prepare ourselves for the ultimate end - for our actions here on earth to be judged as either fit for heaven or not. 
 
-I always had an issue with that. Did that mean all the nice people I was interacting with were only nice because they wanted to get into heaven and avoid hell? Goodness was just a means to an end to avoid the pain of an eternity in an inferno tortured by demons. (What an image to put in the mind of a wee child...)
+I always had an issue with that. Did that mean all the nice people I was interacting with were only nice because they wanted to get into heaven and avoid hell?<!-- excerpt-end --> Goodness was just a means to an end to avoid the pain of an eternity in an inferno tortured by demons. (What an image to put in the mind of a wee child...)
 
 I had issue of how much time these rituals took, how strict the requirements were to be a good Catholic and how little I learned in sermons on how to live a good life.
 
