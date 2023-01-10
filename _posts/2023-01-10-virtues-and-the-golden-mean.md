@@ -48,7 +48,7 @@ Just as a dog is happiest when it is fulfilling its function: being a dog and do
 
 Aristotle argues that it is uniquely human to have reason, so reason must be part of our human function. For us to do anything well, we need virtue and excellence. Virtues are just humans practicing our reasoning so virtues are the pursuit of what it means to be human. Being virtuous and practicing virtues make us happy. It is an end in itself.
 
-(From personal experience, I can attest that the times I was happiest were the times I was improving a lot -- I was fulfilling what I thought to be my function, and in order to do that well I needed to exercise, study, read books, practice what I read, travel to expand my horizons. This fits in with Aristotle says we build virtues by way of habit. Not merely by having virtues, but by practicing and internalizing them.) 
+(From personal experience, I can attest that the times I was happiest were the times I was improving a lot -- I was fulfilling what I thought to be my function, and in order to do that well I needed to do well at work, exercise, study, read books, practice what I read, travel to expand my horizons. This fits in with Aristotle says we build virtues by way of habit. Not merely by having virtues, but by practicing and internalizing them.) 
 
 Aristotle provides an elegant tool to define virtues: the [Golden Mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)).
 
