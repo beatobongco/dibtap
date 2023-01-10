@@ -40,15 +40,15 @@ Aristotle argues that humans must pursue the highest good and that the highest g
 
 Money, for example, is just a means to an end. Anything you buy with it is just what you think will make you happy. Happiness is an end in itself. Thus happiness must be the highest good. 
 
-Central to Aristotle's concept of happiness is called _eudaimonia_ (a loaded term that also means well being, human flourishing, and living in a way favored by the gods) is the practice of virtues.
+Central to Aristotle's concept of happiness is called _eudaimonia_ (a loaded term that also means well-being, human flourishing, and living in a way favored by the gods) is the practice of virtues.
 
 But what are virtues? 
 
-Just as a dog is happiest when it is fulfilling its function: being a dog and doing dog things (e.g. playing fetch or digging as a standin for hunting), humans are happiest doing human things. But what does it mean for a human to be doing human things?
+Just as a dog is happiest when it is fulfilling its function: being a dog and doing dog things (e.g. playing fetch or digging as a stand-in for hunting), humans are happiest doing human things. But what does it mean for a human to be doing human things?
 
-Aristotle argues that it is uniquely human to have reason, so reason must be part of our human function. For us to do anything well, we need virtue and excellence. Virtues are just humans practicing our reasoning so virtues are the pursuit of what it means to be human. Being virtuous and praciticng virtues make us happy. It is an end in itself.
+Aristotle argues that it is uniquely human to have reason, so reason must be part of our human function. For us to do anything well, we need virtue and excellence. Virtues are just humans practicing our reasoning so virtues are the pursuit of what it means to be human. Being virtuous and practicing virtues make us happy. It is an end in itself.
 
-(From personal experience, I can attest that the times I was happiest were the times I was improving a lot -- I was fulfilling what I thought to be my function, and in order to do that well I needed to exercise, study, read books, practice what I read. This fits in with Aristotle says we build virtues by way of habit. Not merely by having virtues, but by practicing and internalizing them.) 
+(From personal experience, I can attest that the times I was happiest were the times I was improving a lot -- I was fulfilling what I thought to be my function, and in order to do that well I needed to exercise, study, read books, practice what I read, travel to expand my horizons. This fits in with Aristotle says we build virtues by way of habit. Not merely by having virtues, but by practicing and internalizing them.) 
 
 Aristotle provides an elegant tool to define virtues: the [Golden Mean](https://en.wikipedia.org/wiki/Golden_mean_(philosophy)).
 
@@ -77,8 +77,10 @@ The spirit of the Golden Mean also appears in many religions and philosophies so
 
 I like this idea a lot because it always seemed to me that the Catholic virtues I was taught growing up was skewed too much to one side.
 
-I want to be a charitable person but not have to give away all my worldly posessions and live in poverty. I want to be nice to people but not be stepped on. I want to achieve great things and not feel bad about telling people about it (I'm not talking about bragging. Many times in life it is very useful to be able to communicate your value. For example, during an interview.)
+I want to be a charitable person but not have to give away all my worldly posessions and live in poverty. I want to be nice to people but not be stepped on. I want to achieve great things and not feel bad about telling people about it.
 
-I like the idea of using reason, and not some old doctrine to determine the best way to be. 
+I like the idea of using reason and not some antiquated absolute rules (which restrict human freedom too much) to determine the best way to be. 
 
-I think by being the "best" version of yourself as defined by being virtuous: balanced and rational, you have the capacity to help more people and maybe even inspire them.
+I want to live a good life in the here and now and without expectations of a posthumous award. I like that being good is an end of itself, and not just a means to reach heaven (a preqrequisite is a belief in an afterlife that cannot be proven nor disproven empirically). 
+
+By striving to be the "best" version of yourself as defined by being virtuous (balanced and rational), you have more capacity to improve the human condition: to help more people and maybe even inspire them.
